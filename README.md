@@ -1,6 +1,4 @@
-# music-streaming-analysis
-
-Análisis de Transmisión de Música – Springfield vs Shelbyville
+# Análisis de Transmisión de Música – Springfield vs Shelbyville
 
 Este proyecto fue desarrollado como parte de un bootcamp de análisis de datos. Se centra en explorar y procesar datos reales de transmisión de música online para comprender los hábitos de escucha de los usuarios en dos ciudades: Springfield y Shelbyville.
 
